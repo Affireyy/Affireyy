@@ -1,11 +1,16 @@
-<h2>Affireyy</h2>
+# Affireyy
 
-<p>
-Linux · Raspberry Pi · Hardware tinkering · Audio
-</p>
+I build small hardware-focused projects on Linux.
 
-<p>
-Working on <b>PiDice</b> — a Raspberry Pi–based portable system.
-</p>
+### Current project
+**PiDice**
+- Raspberry Pi–based portable system
+- Button input + small display
+- Local audio playback
+- Lightweight Python stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=Affireyy&show_icons=true&hide_border=true&theme=github_dark" />
+### Interests
+- Embedded Linux
+- Raspberry Pi & peripherals
+- Minimal UI design
+- Systems that run without the cloud
