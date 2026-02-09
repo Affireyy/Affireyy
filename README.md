@@ -1,16 +1,16 @@
 # Affireyy
 
-I build small hardware-focused projects on Linux.
+I just do things sometimes.
 
 ### Current project
-**PiDice**
+[**PiDice**](https://github.com/Affireyy/PiDice)
 - Raspberry Pi–based portable system
-- Button input + small display
 - Local audio playback
+- Portable PiHole router
 - Lightweight Python stack
 
 ### Interests
-- Embedded Linux
-- Raspberry Pi & peripherals
+- Linux
+- Doing Random Stuff
 - Minimal UI design
-- Systems that run without the cloud
+- Not Google
