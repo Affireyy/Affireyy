@@ -1,5 +1,3 @@
-I just do things sometimes.
-
 ### Current project
 [**PiDice**](https://github.com/Affireyy/PiDice)
 - Raspberry Pi–based portable system
