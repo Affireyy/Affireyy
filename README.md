@@ -1,5 +1,3 @@
-# Affireyy
-
 I just do things sometimes.
 
 ### Current project
